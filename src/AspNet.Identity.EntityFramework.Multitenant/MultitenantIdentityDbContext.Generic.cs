@@ -1,9 +1,9 @@
-﻿//-----------------------------------------------------------------------
-// <copyright company="James Skimming">
-//     Copyright (c) 2013 James Skimming
-// </copyright>
-//-----------------------------------------------------------------------
-
+﻿// //-----------------------------------------------------------------------
+// // <copyright company="James Skimming">
+// //     Copyright (c) 2016 James Skimming
+// //     Additional Changes by Oliver Dunthorne 2016
+// // </copyright>
+// //-----------------------------------------------------------------------
 namespace AspNet.Identity.EntityFramework.Multitenant
 {
     using System;

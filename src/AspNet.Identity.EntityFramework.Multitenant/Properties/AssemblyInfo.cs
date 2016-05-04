@@ -1,9 +1,9 @@
-﻿//-----------------------------------------------------------------------
-// <copyright company="James Skimming">
-//     Copyright (c) 2013 James Skimming
-// </copyright>
-//-----------------------------------------------------------------------
-
+﻿// //-----------------------------------------------------------------------
+// // <copyright company="James Skimming">
+// //     Copyright (c) 2016 James Skimming
+// //     Additional Changes by Oliver Dunthorne 2016
+// // </copyright>
+// //-----------------------------------------------------------------------
 using System.Reflection;
 using System.Runtime.InteropServices;
 
@@ -15,7 +15,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("James Skimming")]
 [assembly: AssemblyProduct("AspNet.Identity.EntityFramework.Multitenant")]
-[assembly: AssemblyCopyright("Copyright © 2013 James Skimming")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
